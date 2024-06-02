@@ -28,15 +28,17 @@
 
 ### Instalação
 
-1. Instale os pacotes
+1. Clone o repositório
+
+2. Instale os pacotes
    ```sh
    npm i
    ```
-2. Com os pacotes instalados, execute o comando de desenvolvimento:
+3. Com os pacotes instalados, execute o comando de desenvolvimento:
     ```sh
     npm run dev:node
     ```
-3. Os testes poderão ser executados utilizando o comando:
+4. Os testes poderão ser executados utilizando o comando:
     ```sh
     npm test
     ```
