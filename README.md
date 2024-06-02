@@ -24,7 +24,7 @@
 * [Tailwindcss](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev)
 * [shadcn/ui](https://ui.shadcn.com/)
-* [bun](https://bun.sh/) (But you can use [Node.js](https://nodejs.org/en) instead)
+* [Node.js](https://nodejs.org/en)
 
 ### Instalação
 
